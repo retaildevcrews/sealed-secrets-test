@@ -1,8 +1,9 @@
-# My new repo
-
-> My new repo description ...
+# Sealed Secrets Test
+This repository is to test how GitHub security checks will react when kubernetes "sealed secret" is checked in. 
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+For details, visit ["Sealed Secrets" for Kubernetes](https://github.com/bitnami-labs/sealed-secrets).
 
 ## Contributing
 
